@@ -5,7 +5,6 @@ First of all - Welcome! I’m a nice fun and friendly person, I work well in a t
 ## Contact me
 [![Linkedin](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aibek-igizbayev-a95438234/)
 [![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/khandevy)
-#
 
 
 ## Languages and Tools
@@ -16,7 +15,6 @@ First of all - Welcome! I’m a nice fun and friendly person, I work well in a t
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![firebase](https://img.shields.io/badge/-firebase-lightgrey?style=for-the-badge&logo=firebase&logoColor=F8c52d)
-#
 
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmylifestyle&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
