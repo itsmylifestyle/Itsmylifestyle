@@ -5,6 +5,7 @@ Also I'm a software engineer and I'm glad that you've come to my GitHub. Don't b
 
 Latest Updates
 
-Languages and Tools
+### Languages and Tools
+![Java](https://img.shields.io/badge/-Java-green)
 
 Follow me
