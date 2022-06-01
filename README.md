@@ -20,4 +20,5 @@ First of all - Welcome! I’m a nice fun and friendly person, I work well in a t
 
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmylifestyle&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmylifestyle&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
