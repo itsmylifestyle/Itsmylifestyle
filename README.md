@@ -46,3 +46,5 @@ struct ContentView: View {
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmylifestyle&show_icons=true&theme=dark" alt="Top Languages" />
   </div>
 </div>
+
+![](https://komarev.com/ghpvc/?username=Itsmylifestyle&color=grey&style=for-the-badge)
